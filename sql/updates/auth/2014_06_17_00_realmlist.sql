@@ -1,1 +1,1 @@
-UPDATE realmlist SET gamebuild = 18414 WHERE gamebuild = 18291;
+UPDATE realmlist SET gamebuild = 18414;
